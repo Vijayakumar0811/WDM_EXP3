@@ -141,3 +141,4 @@ visualize_patterns_line(result, 'Dataset')
 <img width="1794" height="839" alt="image" src="https://github.com/user-attachments/assets/0f9c5649-795d-448e-ad40-bc36229fc96e" />
 
 ### Result:
+Thus, the GSP algorithm successfully identified frequent sequential patterns of lengths 1 to 4 from the given dataset based on the specified minimum support threshold.
